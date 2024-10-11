@@ -1,0 +1,8 @@
+Multithreading with maximum 8 threads
+Welcome to the OPT Buoy Data Dashboard.
+  >If using the dashboard on a raw dataset, select "Compress Dataset."
+  >If concatenated data files are not generated ( <metric name>_full.dat ), select "Combine Metrics"
+  >If compression has already run and files exist with names <metric>_full.dat, select plot options.
+  >If unsure how to proceeed, select "Process Data" and follow prompts.
+
+Select an option to receive additional instructions.

@@ -1,0 +1,35 @@
+TB1:
+    gps:
+        path: "/dev/ttyUSB1"
+        baud: 38400
+        pubHZ: 25
+    ais:
+        path: "/dev/ttyUSB3"
+        baud: 38400
+        pubHZ: 1.5
+    imu:
+        path: "/dev/ttyUSB0"
+        baud: 38400
+        pubHZ: 10
+    comp:
+        path: "dev/ttusUSB2"
+        baud: 38400
+        pubHZ: 10
+TB2:
+    gps:
+        path: "/dev/ttyUSB0"
+        baud: 38400
+        pubHZ: 25
+    ais:
+        path: "/dev/ttyUSB3"
+        baud: 38400
+        pubHZ: 1.5
+    imu:
+        path: "/dev/ttyUSB1"
+        baud: 38400
+        pubHZ: 10
+    comp:
+        path: "dev/ttusUSB2"
+        baud: 38400
+        pubHZ: 10
+        
